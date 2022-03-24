@@ -1,0 +1,14 @@
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\domain\Ingredient.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\controllers\IndexController.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\domain\Category.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\repositories\RecipeRepository.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\services\RecipeService.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\repositories\CategoryRepository.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\domain\Recipe.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\domain\Notes.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\RecipeApplication.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\domain\UnitOfMeasure.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\services\RecipeServiceImpl.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\repositories\UnitOfMeasureRepository.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\bootstrap\RecipeBootstrap.java
+D:\SpringCourse\11.CRUD Operations with Spring MVC\Recipe Project\src\main\java\guru\springframework\recipe\domain\Difficulty.java

@@ -1,0 +1,5 @@
+guru\springframework\recipe\RecipeApplicationTests.class
+guru\springframework\recipe\services\RecipeServiceImplTest.class
+guru\springframework\recipe\domain\CategoryTests.class
+guru\springframework\recipe\controllers\IndexControllerTest.class
+guru\springframework\recipe\repositories\UnitOfMeasureRepositoryIT.class
